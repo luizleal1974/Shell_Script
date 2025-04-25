@@ -7,7 +7,7 @@ Shell Script (<code>GNU/Linux</code>) para distros baseadas no <code>Ubuntu</cod
 
 </br>
 
-# Curso de Estatística
+# Curso de Estatística <a target='_blank' rel='noopener noreferrer' href='https://gitlab.com/luizleal1974/curso-de-estatistica'>&#128279;</a>
 
 ### <img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r">
 
