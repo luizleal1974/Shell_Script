@@ -1,2 +1,2 @@
-# Shell_Script
-Shell Script (GNU/Linux) para distros baseadas no Ubuntu
+# Shell Script
+Shell Script (<code>GNU/Linux</code>) para distros baseadas no <code>Ubuntu</code>.
