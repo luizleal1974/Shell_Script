@@ -4,3 +4,9 @@ Shell Script (<code>GNU/Linux</code>) para distros baseadas no <code>Ubuntu</cod
 <p align="center">
 <img src="/Ubuntu_Zorin_OS.png"/>
 </p>
+
+# Curso de Estatística
+
+## R
+
+## Python
