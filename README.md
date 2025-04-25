@@ -7,6 +7,6 @@ Shell Script (<code>GNU/Linux</code>) para distros baseadas no <code>Ubuntu</cod
 
 # Curso de Estatística
 
-## R
+### R
 
-## Python
+### Python
