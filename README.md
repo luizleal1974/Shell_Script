@@ -20,11 +20,9 @@ Shell Script (<code>GNU/Linux</code>) para distros baseadas no <code>Ubuntu</cod
 <td> 200 </td>
 <td>
 
-↑ Blank line!
-```
+```r
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/luizleal1974/Shell_Script/main/SHELL/bstatR.sh)"
 ```
-↓ Blank line!
 
 </td>
 </tr>
