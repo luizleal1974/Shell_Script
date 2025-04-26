@@ -12,7 +12,8 @@ Shell Script (<code>GNU/Linux</code>) para distros baseadas no <code>Ubuntu</cod
 
 &bull; <a style="text-decoration:none" target='_blank' rel='noopener noreferrer' href='https://gitlab.com/luizleal1974/curso-de-estatistica'><code>Curso de Estatística</code></a>
 
-### <img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r"> ```
+### <img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r">
+```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/luizleal1974/Shell_Script/main/SHELL/bstatR.sh)"
 ```
 
