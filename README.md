@@ -24,3 +24,8 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/luizleal1974/Shell_Script/
 
 </br>
 
+# Rstudio
+
+Para instalar sugere-se fazer download do arquivo com extensão <code>.deb</code> no endereço eletrônico <a style="text-decoration:none" target='_blank' rel='noopener noreferrer' href='https://posit.co/download/rstudio-desktop/'><code>Rtudio</code></a>.
+
+</br>
