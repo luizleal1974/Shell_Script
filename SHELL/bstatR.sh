@@ -47,11 +47,5 @@ sudo apt install libssl-dev
 os_update
 r_prog
 
-## Instalar pacotes do R
-Rscript -e 'install.packages(c("openxlsx", "plotly", "outliers", "car", "PMCMRplus", "robustbase"), repos="http://cran.rstudio.com/")'
-
-## Instalar Rstudio
-sudo snap install rstudio --classic
-
 ## Mensagem
 echo "INSTALACAO CONCLUIDA"
