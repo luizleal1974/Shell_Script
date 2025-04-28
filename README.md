@@ -1,6 +1,6 @@
 # Shell Script
 
-Shell Script (<code>GNU/Linux</code>) para distros baseadas no <code>Ubuntu</code> (<a style="text-decoration:none" target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/Shell_Script/blob/main/LICENSE/LICENSE.md'><code>License</code></a>). Execute o comando no terminal (Linux). O Shell Script deste repostiório é destinado ao curso de <a style="text-decoration:none" target='_blank' rel='noopener noreferrer' href='https://gitlab.com/luizleal1974/curso-de-estatistica'><code>Estatística Básica</code></a>.
+<p align="justify">Shell Script (<code>GNU/Linux</code>) para distros baseadas no <code>Ubuntu</code> (<a style="text-decoration:none" target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/Shell_Script/blob/main/LICENSE/LICENSE.md'><code>License</code></a>). Execute o comando no terminal (Linux). O Shell Script deste repostiório é destinado ao curso de <a style="text-decoration:none" target='_blank' rel='noopener noreferrer' href='https://gitlab.com/luizleal1974/curso-de-estatistica'><code>Estatística Básica</code></a>.</p>
 
 <p align="center">
 <img src="/Ubuntu_Zorin_OS.png"/>
@@ -8,13 +8,7 @@ Shell Script (<code>GNU/Linux</code>) para distros baseadas no <code>Ubuntu</cod
 
 </br>
 
-# Curso de Estatística
-
- com opções de intalação das linguagens de programação R e Python.
-
-</br>
-
-### <img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r">
+# <img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r">
 
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/luizleal1974/Shell_Script/main/SHELL/bstatR.sh)"
@@ -31,7 +25,7 @@ O <b>Rtudio</b> pode ser instalado do seguinte modo:
 
 </br>
 
-### <img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="r">
+# <img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="r">
 
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/luizleal1974/Shell_Script/main/SHELL/bstatPy.sh)"
