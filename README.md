@@ -27,10 +27,19 @@ O <b>Rtudio</b> pode ser instalado do seguinte modo:
 
 <p></p>
 
+<p></p>
+
 ### <img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="r">
 
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/luizleal1974/Shell_Script/main/SHELL/bstatPy.sh)"
 ```
 
+O <b>PyCharm</b> pode ser instalado do seguinte modo:
+
+&#x2022; Loja de aplicativos
+
+&#x2022; <code>flatpak install flathub com.jetbrains.PyCharm-Community</code>
+
+&#x2022; <code>sudo snap install pycharm-community --classic</code>
 </br>
