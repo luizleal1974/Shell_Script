@@ -15,7 +15,7 @@ Shell Script (<code>GNU/Linux</code>) para distros baseadas no <code>Ubuntu</cod
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/luizleal1974/Shell_Script/main/SHELL/bstatR.sh)"
 ```
-Rtudio
+O <b>Rtudio</b> pode ser instalado do seguinte modo:
 
 &#x2022; Shell Script (acima)
 
@@ -24,6 +24,8 @@ Rtudio
 &#x2022; <a style="text-decoration:none" target='_blank' rel='noopener noreferrer' href='https://posit.co/download/rstudio-desktop/'><code>Link</code></a>
 
 &#x2022; Terminal: <code>sudo snap install rstudio --classic</code>
+
+<p></p>
 
 ### <img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="r">
 
