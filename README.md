@@ -8,7 +8,7 @@
 
 </br>
 
-# <img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r">
+# <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r">
 
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/luizleal1974/Shell_Script/main/SHELL/bstatR.sh)"
@@ -25,7 +25,7 @@ O <b>Rtudio</b> pode ser instalado do seguinte modo:
 
 </br>
 
-# <img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="r">
+# <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="r">
 
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/luizleal1974/Shell_Script/main/SHELL/bstatPy.sh)"
