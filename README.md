@@ -10,6 +10,10 @@ Shell Script (<code>GNU/Linux</code>) para distros baseadas no <code>Ubuntu</cod
 
 # Curso de Estatística
 
+Shell script destinado ao curso de <a style="text-decoration:none" target='_blank' rel='noopener noreferrer' href='https://gitlab.com/luizleal1974/curso-de-estatistica'><code>Estatística Básica</code></a>.
+
+</br>
+
 ### <img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r">
 
 ```
@@ -21,13 +25,11 @@ O <b>Rtudio</b> pode ser instalado do seguinte modo:
 
 &#x2022; Loja de aplicativos
 
-&#x2022; <a style="text-decoration:none" target='_blank' rel='noopener noreferrer' href='https://posit.co/download/rstudio-desktop/'><code>Link</code></a>
+&#x2022; <a style="text-decoration:none" target='_blank' rel='noopener noreferrer' href='https://posit.co/download/rstudio-desktop/'>Link</a>
 
-&#x2022; Terminal: <code>sudo snap install rstudio --classic</code>
+&#x2022; <code>sudo snap install rstudio --classic</code>
 
-<p></p>
-
-<p></p>
+</br>
 
 ### <img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="r">
 
