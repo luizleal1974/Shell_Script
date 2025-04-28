@@ -5,12 +5,14 @@ Shell Script (<code>GNU/Linux</code>) para distros baseadas no <code>Ubuntu</cod
 <p align="center">
 <img src="/Ubuntu_Zorin_OS.png"/>
 </p>
+Neste repositório o Shell Script é destinado ao curso de <a style="text-decoration:none" target='_blank' rel='noopener noreferrer' href='https://gitlab.com/luizleal1974/curso-de-estatistica'><code>Estatística Básica</code></a>.
+
 
 </br>
 
 # Curso de Estatística
 
-Shell script destinado ao curso de <a style="text-decoration:none" target='_blank' rel='noopener noreferrer' href='https://gitlab.com/luizleal1974/curso-de-estatistica'><code>Estatística Básica</code></a> com opções de intalação das linguagens de programação R e Python.
+ com opções de intalação das linguagens de programação R e Python.
 
 </br>
 
