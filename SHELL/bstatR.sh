@@ -43,9 +43,18 @@ sudo apt install default-jre -y
 sudo apt install libssl-dev
 }
 
+## Download e instalacao do Rstudio
+install_rstudio(){
+DIRETORIO_DOWNLOADS="$HOME/Downloads/programas"
+URL_RSTUDIO="https://rstudio.org/download/latest/stable/desktop/jammy/rstudio-latest-amd64.deb"
+wget -c "$URL_RSTUDIO" -P "$DIRETORIO_DOWNLOADS"
+sudo dpkg -i $DIRETORIO_DOWNLOADS/*.deb
+}
+
 ## Executar shell script
 os_update
 r_prog
+install_rstudio
 
 ## Mensagem
 echo "INSTALACAO CONCLUIDA"
