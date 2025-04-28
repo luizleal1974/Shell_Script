@@ -15,17 +15,20 @@ Shell Script (<code>GNU/Linux</code>) para distros baseadas no <code>Ubuntu</cod
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/luizleal1974/Shell_Script/main/SHELL/bstatR.sh)"
 ```
+Rtudio
+
+&#x2022; Shell Script (acima)
+
+&#x2022; Loja de aplicativos
+
+&#x2022; <a style="text-decoration:none" target='_blank' rel='noopener noreferrer' href='https://posit.co/download/rstudio-desktop/'><code>Link</code></a>
+
+&#x2022; Terminal: <code>sudo snap install rstudio --classic</code>
 
 ### <img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="r">
 
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/luizleal1974/Shell_Script/main/SHELL/bstatPy.sh)"
 ```
-
-</br>
-
-# Rstudio
-
-Para instalar sugere-se fazer download do arquivo com extensão <code>.deb</code> no endereço eletrônico <a style="text-decoration:none" target='_blank' rel='noopener noreferrer' href='https://posit.co/download/rstudio-desktop/'><code>Rtudio</code></a>.
 
 </br>
