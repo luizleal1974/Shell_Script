@@ -28,6 +28,9 @@ pip install lxml
 pip install scikit-learn
 }
 
+## Instalar PyCharm
+sudo snap install pycharm-community --classic
+
 ## Executar shell script
 os_update
 python_prog
