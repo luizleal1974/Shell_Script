@@ -38,4 +38,5 @@ O <b>PyCharm</b> pode ser instalado do seguinte modo:
 &#x2022; <code>flatpak install flathub com.jetbrains.PyCharm-Community</code>
 
 &#x2022; <code>sudo snap install pycharm-community --classic</code>
+
 </br>
