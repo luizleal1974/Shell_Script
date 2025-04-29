@@ -19,7 +19,7 @@ O <b>Rtudio</b> pode ser instalado do seguinte modo:
 
 &#x2022; Loja de aplicativos
 
-&#x2022; <a style="text-decoration:none" target='_blank' rel='noopener noreferrer' href='https://posit.co/download/rstudio-desktop/'>Link</a> (arquivo <code>.deb</code>)
+&#x2022; <a style="text-decoration:none" target='_blank' rel='noopener noreferrer' href='https://posit.co/download/rstudio-desktop/'>Download</a> (arquivo <code>.deb</code>)
 
 &#x2022; <code>sudo snap install rstudio --classic</code>
 
