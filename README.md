@@ -15,9 +15,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/luizleal1974/Shell_Script/
 ```
 O <b>Rtudio</b> pode ser instalado do seguinte modo:
 
-&#x2022;  (acima)
-
-<a style="text-decoration:none" target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/Shell_Script/blob/main/SHELL/bstatR.sh'><code>Shell Script</code></a>
+&#x2022; <a style="text-decoration:none" target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/Shell_Script/blob/main/SHELL/bstatR.sh'><code>Shell Script</code></a> (acima)
 
 &#x2022; Loja de aplicativos
 
@@ -34,6 +32,8 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/luizleal1974/Shell_Script/
 ```
 
 O <b>PyCharm</b> pode ser instalado do seguinte modo:
+
+&#x2022; <a style="text-decoration:none" target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/Shell_Script/blob/main/SHELL/bstatPy.sh'><code>Shell Script</code></a> (acima)
 
 &#x2022; Loja de aplicativos
 
