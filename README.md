@@ -6,9 +6,15 @@
 <img src="/Ubuntu_Zorin_OS.png"/>
 </p>
 
+
+
+
+
 </br>
 
-# <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r">
+
+
+# R
 
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/luizleal1974/Shell_Script/main/SHELL/bstatR.sh)"
@@ -23,9 +29,15 @@ O <b>Rtudio</b> pode ser instalado do seguinte modo:
 
 &#x2022; <code>sudo snap install rstudio --classic</code>
 
+
+
+
 </br>
 
-# <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="r">
+
+
+
+# Python
 
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/luizleal1974/Shell_Script/main/SHELL/bstatPy.sh)"
